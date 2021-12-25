@@ -2,7 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-
+  div id="mc_embed_signup_scroll"
 }
 
 h1 {
@@ -112,6 +112,4 @@ a:hover{
   width: 40%;
 
 }
-/*
-clear: left; (is an example of how to move around float)
-*/
+
