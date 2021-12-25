@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 {
+  font-size: 5.625em;
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Parisienne', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+}
+.cloud1 {
+  position: absolute;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  border-width: 5px;
+  width: 1.5%;
+  border-style: dotted;
+  color: grey;
+  border-top: none;
+}
+.footer-link{
+  color: #11999E;
+  margin: 50px 10px 20px 20px;
+  text-decoration: none
+}
+.cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto 20px auto;
+}
+a:hover{
+  color: white;
+}
+.Top {
+  background-color: #EAF6F6;
+  padding-top: 100px
+}
+.copyright{
+  padding-top: 20px
+}
+.dev{
+  font-size: 2.5rem;
+}
+.skill-row{
+  width: 50%;
+  position: relative;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.gif{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.gify{
+  width: 25%;
+  float: right;
+  margin-left:  30px;
+}
+.hello{
+  color: #40514E
+
+}
+.mail{
+  width: 10%
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #000000;
+  padding: 8px 8px 8px 8px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #38f209;
+  background-image: -webkit-linear-gradient(top, #38f209, #3498db);
+  background-image: -moz-linear-gradient(top, #38f209, #3498db);
+  background-image: -ms-linear-gradient(top, #38f209, #3498db);
+  background-image: -o-linear-gradient(top, #38f209, #3498db);
+  background-image: linear-gradient(to bottom, #38f209, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.contact{
+  margin: 40px auto 60px auto;
+  width: 40%;
+
+}
+/*
+clear: left; (is an example of how to move around float)
+*/
